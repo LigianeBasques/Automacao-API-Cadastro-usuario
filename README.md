@@ -50,7 +50,7 @@ o log é um arquivo gerado automaticamente após a execução dos testes, conten
 
 ![LOG](https://imgur.com/AacyEQa.png)  
 
-## 📌REPORT📌 ##
+#### 📌REPORT📌 ####
  o report é um arquivo gerado automaticamente após a execução dos testes que oferece uma visão geral dos resultados. Ele é menos detalhado que o log, focando mais em fornecer um resumo dos testes.
 + Copie e cole o endereço gerado logo abaixo no seu terminal de testes no navegador e abra. A tela gerada será essa abaixo.
 
