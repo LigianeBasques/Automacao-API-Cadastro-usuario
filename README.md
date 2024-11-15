@@ -27,5 +27,9 @@ Você precisará baixar o WebDriver para o navegador que será utilizado nos tes
 Os testes estão separados em três pastas:
 + **Pasta Resources:** Contém o arquivo resource onde são inseridos: bibliotecas, declaração das keywords, declaração de variaveis e demais configurações.
 + **Pasta Testes:** Contém o arquivo testes onde são escritas os cenários e casos de testes e demais configurações necessárias.
-+ 
++ **Pasta Results:** Contém os arquivos de LOG e report no formato html
+
+# 💡Começando a automação💡 #
+A API escolhida foi a ServeRest gratuita que simula uma loja virtual: https://serverest.dev/,  será automatizado o cadastro de um usuário na loja. 
+  
 
