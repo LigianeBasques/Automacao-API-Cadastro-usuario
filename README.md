@@ -21,3 +21,11 @@ Você precisará baixar o WebDriver para o navegador que será utilizado nos tes
 **Observação**: Baixe o WebDriver correspondente à versão do seu navegador e coloque-o em um local acessível no seu sistema. Certifique-se de adicionar o diretório onde o WebDriver está localizado ao seu PATH.
 ### Instale o visual studio code ###
 + Baixe e instale um editor de código de preferência o visual studio code entre no site: https://code.visualstudio.com/download
+
+# 🔨 Estrutura da automação🔨  #
+
+Os testes estão separados em três pastas:
++ **Pasta Resources:** Contém o arquivo resource onde são inseridos: bibliotecas, declaração das keywords, declaração de variaveis e demais configurações.
++ **Pasta Testes:** Contém o arquivo testes onde são escritas os cenários e casos de testes e demais configurações necessárias.
++ 
+
