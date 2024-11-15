@@ -37,7 +37,14 @@ Na pasta **Pasta Testes:** foi criado um arquivo *api_teste_usuarios.robot* o qu
 ![Cenários e casos de testes ](https://imgur.com/riZMmOi.png)  
 
 ## 🔎Desenvolvendo a lógica para a automação🔎 ##
-**Pasta Resources:** foi criado um arquivo *api_teste_usuarios_resource* onde foi declarada as bibliotecas, a keywords e declaração de variáveis, como mostra a imagem
+Na **Pasta Resources:** foi criado um arquivo *api_teste_usuarios_resource* onde foi declarada as bibliotecas, a keywords e declaração de variáveis, como mostra a imagem
 abaixo:
 ![Declaração de Bibliotecas, keywords e variaveis ](https://imgur.com/3F1x10O.png)  
+
+## 📈Resultados📈 ##
+Na **Pasta Results:** foi gerados 2 arquivos em formato html: um é o LOG e o outro o Report. 
+
+#### 📜LOG📜 ####
+o log é um arquivo gerado automaticamente após a execução dos testes, contendo detalhes sobre a execução das keywords, resultados dos testes e outros eventos relacionados. Ele serve como uma ferramenta de depuração e análise, permitindo identificar rapidamente o que ocorreu durante os testes. Como por exemplo falhas, onde falhou o teste.
++ Copie e cole o endereço gerado logo abaixo no seu terminal de testes no navegador e abra. A tela gerada será essa abaixo
 
