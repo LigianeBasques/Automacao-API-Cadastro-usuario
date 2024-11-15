@@ -5,3 +5,8 @@ Esse desafio é sobre automação de uma API para cadastro de usuário de uma lo
 <li><a href="https://serverest.dev/" rel=nofollow>APIServeRest</a></li>
 <li>Será automatizado o cadastro de usuário</li>
 
+# 🏃Primeiros passos🏃 #
+### Instale o python ###
+Baixe e instale o python em seu computador entre no site: <a href="https://www.python.org/downloads/" rel=nofollow>PYTHON</a>
+
+
