@@ -25,7 +25,7 @@ Você precisará baixar o WebDriver para o navegador que será utilizado nos tes
 # 🔨 Estrutura da automação🔨  #
 
 Os testes estão separados em três pastas:
-+ **Pasta Resources:** Contém o arquivo resource onde são inseridos: bibliotecas, declaração das keywords, declaração de variaveis e demais configurações.
++ **Pasta Resources:** Contém o arquivo resource onde são inseridos: bibliotecas, declaração das keywords, declaração de variáveis e demais configurações.
 + **Pasta Testes:** Contém o arquivo testes onde são escritas os cenários e casos de testes e demais configurações necessárias.
 + **Pasta Results:** Contém os arquivos de LOG e report no formato html
 
@@ -34,5 +34,5 @@ A API escolhida foi a ServeRest gratuita que simula uma loja virtual: https://se
 
 # 📝Escrever o roteiro de testes📝 #
 Na pasta **Pasta Testes:** foi criado um arquivo teste.robot o qual foi escrito **2 cenários e 7 casos de testes**, como mostra a imagem abaixo: 
-  
+![Cenários e casos de testes ](https://imgur.com/riZMmOi.png)  
 
