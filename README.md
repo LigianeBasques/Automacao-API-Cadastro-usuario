@@ -32,7 +32,12 @@ Os testes estão separados em três pastas:
 # 💡Começando a automação💡 #
 A API escolhida foi a ServeRest gratuita que simula uma loja virtual: https://serverest.dev/,  será automatizado o cadastro de um usuário na loja.
 
-# 📝Escrever o roteiro de testes📝 #
-Na pasta **Pasta Testes:** foi criado um arquivo teste.robot o qual foi escrito **2 cenários e 7 casos de testes**, como mostra a imagem abaixo: 
+## 📝Escrever o roteiro de testes📝 ##
+Na pasta **Pasta Testes:** foi criado um arquivo *api_teste_usuarios.robot* o qual foi escrito **2 cenários e 7 casos de testes**, como mostra a imagem abaixo: 
 ![Cenários e casos de testes ](https://imgur.com/riZMmOi.png)  
+
+## 🔎Desenvolvendo a lógica para a automação🔎 ##
+**Pasta Resources:** foi criado um arquivo *api_teste_usuarios_resource* onde foi declarada as bibliotecas, a keywords e declaração de variáveis, como mostra a imagem
+abaixo:
+![Declaração de Bibliotecas, keywords e variaveis ](https://imgur.com/3F1x10O.png)  
 
