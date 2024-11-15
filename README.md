@@ -61,4 +61,5 @@ o log é um arquivo gerado automaticamente após a execução dos testes, conten
 ![REPORT do teste cadastro](https://imgur.com/R1IrO2Y.png)
 
  A tela gerada será essa abaixo
+
  ![Report resultado](https://imgur.com/5jT5dvf.png)
