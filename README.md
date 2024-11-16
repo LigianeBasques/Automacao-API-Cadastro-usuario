@@ -46,7 +46,7 @@ Na **Pasta Results:** foi gerados 2 arquivos em formato html: um é o LOG e o ou
 
 #### 📜LOG📜 ####
 o log é um arquivo gerado automaticamente após a execução dos testes, contendo detalhes sobre a execução das keywords, resultados dos testes e outros eventos relacionados. Ele serve como uma ferramenta de depuração e análise, permitindo identificar rapidamente o que ocorreu durante os testes. Como por exemplo falhas, onde falhou o teste.
-+ Copie e cole o endereço gerado logo abaixo no seu terminal de testes no navegador e abra. A tela gerada será essa abaixo
++ Copie e cole o endereço gerado logo abaixo no seu terminal de testes no navegador e abra.
 
 ![LOG](https://imgur.com/AacyEQa.png)  
 
